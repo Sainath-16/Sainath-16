@@ -8,14 +8,14 @@
 
 <br/>
 
-![Academic](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&logo=studyverse&logoColor=white)
-![Location](https://img.shields.io/badge/Location-India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
+![Academic](https://img.shields.io/badge/B.Sc-Computer%20Science%20(2023--2026)-6D28D9?style=flat-square&logo=studyverse&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Trivandrum,%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
 <a href="https://github.com/Sainath-16"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:contact@sainath.dev"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:sainaths2005@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Sainath-16"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
@@ -44,22 +44,22 @@ focus: Building production-grade, intelligent, scalable systems
 
 </div>
 
-I'm a **Software Engineer** specializing in building **AI-powered, full stack applications** that solve real-world problems with clean architecture and production-grade engineering practices. My work spans from **Explainable AI systems** for predictive analytics to **full stack platforms** used by real communities — always with a strong emphasis on **scalability, security, and performance**.
+I'm a **Computer Science student** with a growing focus on **Cybersecurity** — this is the field I care about more than any other, and where I'm actively building depth through structured, hands-on training. Alongside that, I work on **full stack development** and have explored **AI/ML** through coursework and personal projects, giving me a well-rounded technical foundation.
 
-I approach engineering with a **product mindset** — not just writing code, but designing systems that are maintainable, observable, and built to scale. I enjoy working across the entire stack: from ML model design and API architecture to polished frontend experiences.
+My approach is hands-on and practical: I like understanding how systems can be broken before learning how to defend them, and I'm currently deepening that through a structured offensive-security learning path covering application security, network pentesting, and SOC analysis.
 
 <table align="center">
 <tr>
 <td>
 
 **🔭 Currently Building**
-AI-driven telemetry & automation platforms
+Full stack projects & security-focused tooling
 
 </td>
 <td>
 
-**🌱 Currently Sharpening**
-Applied ML, System Design, Cloud Architecture
+**🌱 Currently Learning**
+FRCD (Option 1) — CAP, CNP, ASA at Tech By Heart (The SkillPod)
 
 </td>
 </tr>
@@ -69,9 +69,9 @@ Applied ML, System Design, Cloud Architecture
 
 ### 💼 Open To
 
-![Open to Work](https://img.shields.io/badge/Software%20Engineer-Open%20to%20Opportunities-6D28D9?style=for-the-badge)
-![Open to Work](https://img.shields.io/badge/AI%2FML%20Engineer-Open%20to%20Opportunities-7C3AED?style=for-the-badge)
-![Open to Work](https://img.shields.io/badge/Full%20Stack%20Developer-Open%20to%20Opportunities-8B5CF6?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/Cybersecurity-Primary%20Interest-6D28D9?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/Software%20Engineering-Open%20to%20Opportunities-7C3AED?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/Full%20Stack%20Development-Open%20to%20Opportunities-8B5CF6?style=for-the-badge)
 
 </div>
 
@@ -283,21 +283,38 @@ Designing and shipping full stack and AI-integrated systems end-to-end — from 
 
 <div align="center">
 
-**AWS**
+**🔐 Currently Pursuing**
 
-![AWS Certified](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![FRCD in progress](https://img.shields.io/badge/Tech%20By%20Heart%20(The%20SkillPod)-FRCD%20Option%201%20—%20In%20Progress-6D28D9?style=for-the-badge&logo=hackthebox&logoColor=white)
 
-**Oracle**
+*FRCD Option 1 — CAP (Certified AppSec Professional) → CNP (Certified Network Pentester) → ASA (Advanced SOC Analyst)*
 
-![Oracle Certified](https://img.shields.io/badge/Oracle-Certified%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+**IBM · Coursera**
 
-**NPTEL**
+[![Intro to AI](https://img.shields.io/badge/IBM-Introduction%20to%20AI-6D28D9?style=for-the-badge&logo=ibm&logoColor=white)](https://coursera.org/verify/OXUXRGXE6R2K)
+[![Intro to Software Engineering](https://img.shields.io/badge/IBM-Intro%20to%20Software%20Engineering-6D28D9?style=for-the-badge&logo=ibm&logoColor=white)](https://coursera.org/verify/0AYQPEX1BR2T)
 
-![NPTEL Certified](https://img.shields.io/badge/NPTEL-Certified-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+**ICT Academy of Kerala**
 
-**Cisco**
+![Cyber Security Internship](https://img.shields.io/badge/ICT%20Academy-Cyber%20Security%20Internship-7C3AED?style=for-the-badge&logo=cyberdefenders&logoColor=white)
+![IoT Addon Program](https://img.shields.io/badge/ICT%20Academy-IoT%20Addon%20Program%20(30hrs)-7C3AED?style=for-the-badge&logo=internetofthings&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/ICT%20Academy-Data%20Viz%20with%20Power%20BI%20(30hrs)-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white)
 
-![Cisco Certified](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+**NxtWave**
+
+![Generative AI Workshop](https://img.shields.io/badge/NxtWave-Generative%20AI%20Workshop-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+
+<br/>
+
+| Certificate | Issuer | Date | Verification |
+|---|---|---|---|
+| FRCD Option 1 (CAP → CNP → ASA) | Tech By Heart (The SkillPod) | 2026 — In Progress | Ongoing |
+| Introduction to Artificial Intelligence (AI) | IBM via Coursera | Feb 2026 | [Verify](https://coursera.org/verify/OXUXRGXE6R2K) |
+| Introduction to Software Engineering | IBM via Coursera | Feb 2026 | [Verify](https://coursera.org/verify/0AYQPEX1BR2T) |
+| Certificate of Internship — Cyber Security | ICT Academy of Kerala | May – Jul 2025 | On file |
+| Addon Program on IoT (30 Hrs) | ICT Academy of Kerala | Aug – Sep 2024 | On file |
+| Data Visualization with Power BI (30 Hrs) | ICT Academy of Kerala | Sep – Oct 2023 | On file |
+| AI for Students: Build Your Own Generative AI Model | NxtWave | May 2024 | On file |
 
 </div>
 
@@ -419,7 +436,7 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@sainath.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainaths2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sainath-16)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Sainath-16)
