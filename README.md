@@ -59,7 +59,7 @@ Full stack projects & security-focused tooling
 <td>
 
 **🌱 Currently Learning**
-FRCD (Option 1) — CAP, CNP, ASA at Tech By Heart (The SkillPod)
+ CAP, CNP, ASA at Tech By Heart (The SkillPod)
 
 </td>
 </tr>
