@@ -1,12 +1,10 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Sainath%20S&fontSize=75&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20Cybersecurity&descAlignY=55&descSize=18&fontColor=58a6ff&descColor=8b949e&animation=fadeIn" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Sainath%20S&fontSize=75&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20Cybersecurity&descAlignY=55&descSize=18&fontColor=58a6ff&descColor=8b949e&animation=fadeIn" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
   <a href="https://portfolio-sainath.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Computer+Science+%C2%B7+AI+%C2%B7+Full-Stack+%C2%B7+Security" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Computer+Science+%C2%B7+AI+%C2%B7+Full-Stack+%C2%B7+Security" alt="Typing SVG" />
   </a>
 </div>
 
@@ -106,10 +104,10 @@
 </div>
 <p align="center">Broadcast-grade football tournament platform with 6 formats, real-time cloud sync, spectator views, and dedicated auth portal.</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Framer-0d1117?style=flat-square&logo=framer&logoColor=0055FF" />
-  <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=fff" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Framer-0d1117?style=flat-square&logo=framer&logoColor=0055FF" alt="Framer" />
+  <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=fff" alt="Vercel" />
 </p>
 
 </td>
@@ -121,10 +119,10 @@
 </div>
 <p align="center">AI cognitive telemetry platform for student stress monitoring. Random Forest model with 88.6% accuracy and SHAP explainability.</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=fff" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
 </p>
 
 </td>
@@ -138,10 +136,10 @@
 </div>
 <p align="center">Automated vulnerability scanner detecting exposed ports and missing HTTP headers, with a Next.js dashboard and PDF reporting.</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=openbugbounty&logoColor=D81B60" />
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=openbugbounty&logoColor=D81B60" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=fff" alt="Next.js" />
 </p>
 
 </td>
@@ -153,10 +151,10 @@
 </div>
 <p align="center">Scalable event management and ticketing platform with Clerk auth, Stripe payments, and real-time webhook processing.</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Clerk-0d1117?style=flat-square&logo=clerk&logoColor=6C47FF" />
-  <img src="https://img.shields.io/badge/Stripe-0d1117?style=flat-square&logo=stripe&logoColor=008CDD" />
-  <img src="https://img.shields.io/badge/ngrok-0d1117?style=flat-square&logo=ngrok&logoColor=1F1E37" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=fff" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Clerk-0d1117?style=flat-square&logo=clerk&logoColor=6C47FF" alt="Clerk" />
+  <img src="https://img.shields.io/badge/Stripe-0d1117?style=flat-square&logo=stripe&logoColor=008CDD" alt="Stripe" />
+  <img src="https://img.shields.io/badge/ngrok-0d1117?style=flat-square&logo=ngrok&logoColor=1F1E37" alt="ngrok" />
 </p>
 
 </td>
@@ -173,10 +171,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Sainath-16&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sainath-16&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sainath-16&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&dates=6e7681&sideNums=c9d1d9" />
-    <img src="https://streak-stats.demolab.com?user=Sainath-16&hide_border=true" height="165" alt="GitHub Streak" />
-  </picture>
 </div>
 
 <br>
@@ -188,14 +182,8 @@
   </picture>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sainath-16&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" width="90%" alt="GitHub Trophies" />
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
