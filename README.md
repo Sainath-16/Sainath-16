@@ -1,456 +1,201 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Sainath%20S&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent%2C+Scalable+Software;AI%2FML+%7C+Full+Stack+%7C+Product+Engineering;Turning+Complex+Problems+Into+Clean+Code;Open+to+Software+Engineering+Roles" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Academic](https://img.shields.io/badge/B.Sc-Computer%20Science%20(2023--2026)-6D28D9?style=flat-square&logo=studyverse&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Trivandrum,%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
-
-<br/>
-
-<a href="https://github.com/Sainath-16"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sainaths2005@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Sainath-16"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sainath-16&style=flat-square&color=7c3aed&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Sainath-16?style=flat-square&color=7c3aed&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/Sainath-16?style=flat-square&color=7c3aed&label=Stars&logo=github)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Sainath%20S&fontSize=75&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20Cybersecurity&descAlignY=55&descSize=18&fontColor=58a6ff&descColor=8b949e&animation=fadeIn" width="100%" />
 
 </div>
 
-<br/>
+<div align="center">
+  <a href="https://portfolio-sainath.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Computer+Science+%C2%B7+AI+%C2%B7+Full-Stack+%C2%B7+Security" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://portfolio-sainath.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=58a6ff" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/sainaths18">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:sainaths2005@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>&nbsp;
+  <a href="https://github.com/Sainath-16">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=8b949e" alt="GitHub" />
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Sainath-16&style=flat-square&color=0d1117&label=Profile+Views&labelColor=0d1117" alt="Profile Views" />
+</div>
+
+<br>
+
+### 👨‍💻 &nbsp;About Me
+
+- 🎓 &nbsp;Computer Science Undergraduate from Thiruvananthapuram, Kerala
+- 🔭 &nbsp;Currently building scalable web apps with **Next.js**, **FastAPI** & **ML** integrations
+- 🧠 &nbsp;Interested in **AI & Machine Learning**, **Cybersecurity**, and **Cloud Computing**
+- 🌐 &nbsp;Check out my portfolio → **[portfolio-sainath.vercel.app](https://portfolio-sainath.vercel.app/)**
 
 ---
 
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="28" /> About Me
-
+<details open>
+<summary><b>⚙️ &nbsp;Languages & Core</b></summary>
+<br>
 <div align="center">
 
-```yaml
-name: Sainath S
-role: Software Engineer | AI/ML Engineer | Full Stack Developer
-focus: Building production-grade, intelligent, scalable systems
-```
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![HTML5](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
 
 </div>
+</details>
 
-I'm a **Computer Science student** with a growing focus on **Cybersecurity** — this is the field I care about more than any other, and where I'm actively building depth through structured, hands-on training. Alongside that, I work on **full stack development** and have explored **AI/ML** through coursework and personal projects, giving me a well-rounded technical foundation.
+<details open>
+<summary><b>🧰 &nbsp;Frameworks & Libraries</b></summary>
+<br>
+<div align="center">
 
-My approach is hands-on and practical: I like understanding how systems can be broken before learning how to defend them, and I'm currently deepening that through a structured offensive-security learning path covering application security, network pentesting, and SOC analysis.
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d1117?style=flat-square&logo=framer&logoColor=0055FF)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
+![Clerk](https://img.shields.io/badge/Clerk-0d1117?style=flat-square&logo=clerk&logoColor=6C47FF)
+![Stripe](https://img.shields.io/badge/Stripe-0d1117?style=flat-square&logo=stripe&logoColor=008CDD)
 
-<table align="center">
+</div>
+</details>
+
+<details open>
+<summary><b>🔧 &nbsp;Tools & Platforms</b></summary>
+<br>
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=8b949e)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=openbugbounty&logoColor=D81B60)
+![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
+
+</div>
+</details>
+
+---
+
+### 📌 &nbsp;Featured Work
+
+<div align="center">
+<table>
 <tr>
-<td>
+<td width="50%">
 
-**🔭 Currently Building**
-Full stack projects & security-focused tooling
+<h3 align="center">KickBracket Pro</h3>
+<div align="center">
+  <a href="https://github.com/Sainath-16/kickbracket-pro"><img src="https://img.shields.io/badge/View_Repo-58a6ff?style=flat-square&logo=github&logoColor=0d1117" alt="Repo" /></a>
+</div>
+<p align="center">Broadcast-grade football tournament platform with 6 formats, real-time cloud sync, spectator views, and dedicated auth portal.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Framer-0d1117?style=flat-square&logo=framer&logoColor=0055FF" />
+  <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=fff" />
+</p>
 
 </td>
-<td>
+<td width="50%">
 
-**🌱 Currently Learning**
- CAP, CNP, ASA at Tech By Heart (The SkillPod)
+<h3 align="center">MENTRA.OS</h3>
+<div align="center">
+  <a href="https://github.com/Sainath-16/mentra.os"><img src="https://img.shields.io/badge/View_Repo-58a6ff?style=flat-square&logo=github&logoColor=0d1117" alt="Repo" /></a>
+</div>
+<p align="center">AI cognitive telemetry platform for student stress monitoring. Random Forest model with 88.6% accuracy and SHAP explainability.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">SurfaceCheck API</h3>
+<div align="center">
+  <a href="https://github.com/Sainath-16/SurfaceCheck"><img src="https://img.shields.io/badge/View_Repo-58a6ff?style=flat-square&logo=github&logoColor=0d1117" alt="Repo" /></a>
+</div>
+<p align="center">Automated vulnerability scanner detecting exposed ports and missing HTTP headers, with a Next.js dashboard and PDF reporting.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=openbugbounty&logoColor=D81B60" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=fff" />
+</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">SHOWMAZE</h3>
+<div align="center">
+  <a href="https://github.com/Sainath-16/showmaze"><img src="https://img.shields.io/badge/View_Repo-58a6ff?style=flat-square&logo=github&logoColor=0d1117" alt="Repo" /></a>
+</div>
+<p align="center">Scalable event management and ticketing platform with Clerk auth, Stripe payments, and real-time webhook processing.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Clerk-0d1117?style=flat-square&logo=clerk&logoColor=6C47FF" />
+  <img src="https://img.shields.io/badge/Stripe-0d1117?style=flat-square&logo=stripe&logoColor=008CDD" />
+  <img src="https://img.shields.io/badge/ngrok-0d1117?style=flat-square&logo=ngrok&logoColor=1F1E37" />
+</p>
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-### 💼 Open To
-
-![Open to Work](https://img.shields.io/badge/Cybersecurity-Primary%20Interest-6D28D9?style=for-the-badge)
-![Open to Work](https://img.shields.io/badge/Software%20Engineering-Open%20to%20Opportunities-7C3AED?style=for-the-badge)
-![Open to Work](https://img.shields.io/badge/Full%20Stack%20Development-Open%20to%20Opportunities-8B5CF6?style=for-the-badge)
-
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/2721/2721620.png" width="28" /> Tech Stack
+### 📈 &nbsp;Stats
 
 <div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c&theme=dark" />
-
-<br/><br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux&theme=dark" />
-
-<br/><br/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,postgres,mongodb,mysql,redis&theme=dark" />
-
-<br/><br/>
-
-**Cloud, DevOps & Tooling**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,linux,nginx,postman,vscode,vercel&theme=dark" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Sainath-16&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sainath-16&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sainath-16&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&dates=6e7681&sideNums=c9d1d9" />
+    <img src="https://streak-stats.demolab.com?user=Sainath-16&hide_border=true" height="165" alt="GitHub Streak" />
+  </picture>
 </div>
 
-<br/>
-
----
-
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="28" /> AI / ML Expertise
+<br>
 
 <div align="center">
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| **Machine Learning** | ⭐⭐⭐⭐☆ | Supervised/unsupervised models, feature engineering, model evaluation |
-| **Explainable AI (XAI)** | ⭐⭐⭐⭐☆ | SHAP, LIME, interpretable model pipelines for high-stakes predictions |
-| **Deep Learning** | ⭐⭐⭐☆☆ | Neural network architectures, model training & optimization |
-| **NLP** | ⭐⭐⭐☆☆ | Text classification, embeddings, LLM-integrated applications |
-| **ML System Design** | ⭐⭐⭐⭐☆ | Model serving, inference pipelines, monitoring & telemetry |
-| **Applied AI Products** | ⭐⭐⭐⭐☆ | Integrating ML into production-grade full stack applications |
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sainath-16&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sainath-16&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+  </picture>
 </div>
 
-<br/>
-
----
-
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png" width="28" /> Featured Projects
-
-<details>
-<summary><b>🧠 Mentra OS — AI Cognitive Telemetry Platform</b></summary>
-<br/>
-
-An AI-powered cognitive telemetry platform that leverages Machine Learning and Explainable AI to proactively predict and analyze student stress patterns, enabling early intervention through data-driven insights.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python, ML/XAI Pipelines, FastAPI, PostgreSQL |
-| **Scale** | Multi-user telemetry ingestion with real-time analysis |
-| **Performance** | Optimized inference pipeline for low-latency predictions |
-| **Security** | Data anonymization & secure telemetry handling |
-| **Impact** | Enables proactive, explainable mental-health risk detection |
-| **Repository** | [mentra.os](https://github.com/Sainath-16/mentra.os) |
-
-This project reflects a deep focus on **responsible AI** — combining predictive modeling with explainability so outcomes are transparent and actionable for real stakeholders, not just accurate in isolation.
-
-</details>
-
-<details>
-<summary><b>🛡️ SurfaceCheck — Automated Vulnerability Scanning API</b></summary>
-<br/>
-
-An automated vulnerability scanning API built with FastAPI and Next.js, designed to identify and report security exposures across web application surfaces.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | FastAPI, Next.js, TypeScript, Python |
-| **Scale** | Handles multi-target scan orchestration |
-| **Performance** | Asynchronous scan execution for concurrent targets |
-| **Security** | Core focus — automated surface-level vulnerability detection |
-| **Impact** | Streamlines security assessments for engineering teams |
-| **Repository** | [SurfaceCheck](https://github.com/Sainath-16/SurfaceCheck) |
-
-Built to bridge the gap between **security tooling and developer workflows**, SurfaceCheck emphasizes automation and clear reporting over manual, ad-hoc scanning processes.
-
-</details>
-
-<details>
-<summary><b>🏆 KickBracket Pro — Full Stack Tournament Management Platform</b></summary>
-<br/>
-
-A modern, full stack football tournament management platform designed to simplify tournament organization end-to-end — from creation to registration to live bracket management.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | TypeScript, Next.js, Node.js, PostgreSQL |
-| **Scale** | Multi-tournament, multi-team concurrent management |
-| **Performance** | Optimized bracket generation & real-time state updates |
-| **Security** | Role-based access for organizers & participants |
-| **Impact** | Simplifies end-to-end tournament operations for organizers |
-| **Repository** | [kickbracket-pro](https://github.com/Sainath-16/kickbracket-pro) |
-
-Designed with a **product engineering mindset**, prioritizing intuitive organizer workflows alongside a scalable technical foundation.
-
-</details>
-
-<details>
-<summary><b>🎯 AI Quiz Generator</b></summary>
-<br/>
-
-An intelligent quiz generation system that leverages AI to dynamically create assessments, reducing manual content creation overhead.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Java, AI Integration |
-| **Scale** | Supports dynamic multi-topic quiz generation |
-| **Performance** | Efficient content generation pipeline |
-| **Security** | Input validation & structured generation guardrails |
-| **Impact** | Automates assessment creation for educators |
-| **Repository** | [AI-Quiz-Generator](https://github.com/Sainath-16/AI-Quiz-Generator) |
-
-A practical exploration of applying **AI generation techniques** to solve everyday content-creation bottlenecks.
-
-</details>
-
-<details>
-<summary><b>💼 Personal Portfolio</b></summary>
-<br/>
-
-A modern, performance-optimized personal portfolio showcasing projects, skills, and professional experience.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | TypeScript, Next.js, Tailwind CSS |
-| **Scale** | Static-generated, globally distributed |
-| **Performance** | Optimized Core Web Vitals & load performance |
-| **Security** | Hardened headers & sanitized content delivery |
-| **Impact** | Central hub for professional presence |
-| **Repository** | [portfolio](https://github.com/Sainath-16/portfolio) |
-
-Built with an emphasis on **clean design systems** and fast, accessible user experiences.
-
-</details>
-
-<br/>
-
----
-
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/2830/2830284.png" width="28" /> Experience
-
-### Software Engineer (AI/ML & Full Stack Projects)
-**Independent / Personal Engineering Initiatives**
-*Ongoing*
-
-Designing and shipping full stack and AI-integrated systems end-to-end — from architecture and data pipelines to deployment — with an emphasis on production readiness.
-
-- Architected and deployed AI/ML-powered applications with explainability-first design principles
-- Built full stack platforms spanning frontend, backend, and database layers using modern frameworks
-- Developed security-focused tooling including automated vulnerability scanning systems
-- Applied strong software engineering fundamentals: clean architecture, testing, and CI/CD practices
-
-`Python` `TypeScript` `Machine Learning` `FastAPI` `Next.js` `PostgreSQL` `System Design`
-
-<br/>
-
----
-
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/2583/2583346.png" width="28" /> Achievements
+<br>
 
 <div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🏗️ Multi-Domain Builder | Shipped projects spanning AI/ML, security tooling, and full stack platforms |
-| 🧩 Explainable AI Advocate | Focused on transparent, interpretable ML system design |
-| 🔐 Security-Minded Engineering | Built dedicated vulnerability scanning tooling from scratch |
-| 📈 Consistent Open Source Activity | Active contributor with a growing public repository footprint |
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Sainath-16&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" width="90%" alt="GitHub Trophies" />
 </div>
 
-<br/>
-
----
-
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/8102/8102979.png" width="28" /> Certifications
-
-<div align="center">
-
-**🔐 Currently Pursuing**
-
-![FRCD in progress](https://img.shields.io/badge/Tech%20By%20Heart%20(The%20SkillPod)-FRCD%20Option%201%20—%20In%20Progress-6D28D9?style=for-the-badge&logo=hackthebox&logoColor=white)
-
-*FRCD Option 1 — CAP (Certified AppSec Professional) → CNP (Certified Network Pentester) → ASA (Advanced SOC Analyst)*
-
-**IBM · Coursera**
-
-[![Intro to AI](https://img.shields.io/badge/IBM-Introduction%20to%20AI-6D28D9?style=for-the-badge&logo=ibm&logoColor=white)](https://coursera.org/verify/OXUXRGXE6R2K)
-[![Intro to Software Engineering](https://img.shields.io/badge/IBM-Intro%20to%20Software%20Engineering-6D28D9?style=for-the-badge&logo=ibm&logoColor=white)](https://coursera.org/verify/0AYQPEX1BR2T)
-
-**ICT Academy of Kerala**
-
-![Cyber Security Internship](https://img.shields.io/badge/ICT%20Academy-Cyber%20Security%20Internship-7C3AED?style=for-the-badge&logo=cyberdefenders&logoColor=white)
-![IoT Addon Program](https://img.shields.io/badge/ICT%20Academy-IoT%20Addon%20Program%20(30hrs)-7C3AED?style=for-the-badge&logo=internetofthings&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/ICT%20Academy-Data%20Viz%20with%20Power%20BI%20(30hrs)-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white)
-
-**NxtWave**
-
-![Generative AI Workshop](https://img.shields.io/badge/NxtWave-Generative%20AI%20Workshop-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
-
-<br/>
-
-| Certificate | Issuer | Date | Verification |
-|---|---|---|---|
-| FRCD Option 1 (CAP → CNP → ASA) | Tech By Heart (The SkillPod) | 2026 — In Progress | Ongoing |
-| Introduction to Artificial Intelligence (AI) | IBM via Coursera | Feb 2026 | [Verify](https://coursera.org/verify/OXUXRGXE6R2K) |
-| Introduction to Software Engineering | IBM via Coursera | Feb 2026 | [Verify](https://coursera.org/verify/0AYQPEX1BR2T) |
-| Certificate of Internship — Cyber Security | ICT Academy of Kerala | May – Jul 2025 | On file |
-| Addon Program on IoT (30 Hrs) | ICT Academy of Kerala | Aug – Sep 2024 | On file |
-| Data Visualization with Power BI (30 Hrs) | ICT Academy of Kerala | Sep – Oct 2023 | On file |
-| AI for Students: Build Your Own Generative AI Model | NxtWave | May 2024 | On file |
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="28" /> Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Sainath--16-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Sainath--16-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Sainath--16-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Sainath--16-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="28" /> GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sainath-16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=Sainath-16&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath-16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/2583/2583319.png" width="28" /> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sainath-16&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title.color=A78BFA&rank.color=8B5CF6" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/929/929422.png" width="28" /> Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sainath-16&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="28" /> Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sainath-16/Sainath-16/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/3208/3208756.png" width="28" /> Current Focus
-
-```yaml
-learning:
-  - Advanced System Design & Distributed Architecture
-  - Applied Deep Learning & LLM-based Applications
-  - Cloud-Native Engineering on AWS
-
-building:
-  - AI-integrated full stack platforms
-  - Security-focused developer tooling
-  - Scalable backend systems
-
-exploring:
-  - MLOps & Model Observability
-  - Explainable AI in production systems
-  - Modern DevOps pipelines
-
-open_to:
-  - Software Engineer roles
-  - AI/ML Engineer roles
-  - Full Stack Developer roles
-```
-
-<br/>
-
----
-
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/3178/3178158.png" width="28" /> Connect With Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainaths2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sainath-16)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Sainath-16)
-
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
-
-*"Great software is built at the intersection of clean engineering and intelligent design."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=100&section=footer" width="100%" />
 </div>
